@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello Folks 👋, I'm I'm Pritam Sharma</h1>
+<h1 align="center">Hello Folks 👋, I'm Pritam Sharma</h1>
 <h3 align="center">A Passionate Automation Engineer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif">
 
